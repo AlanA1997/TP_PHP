@@ -1,2 +1,2 @@
-# TP_SQL
- Trabajo Practico.
+# TP_PHP
+ Trabajo Practico Codo a Codo.
